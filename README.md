@@ -87,19 +87,32 @@ Superstore-Performance-Dashboard/
 ├── Superstore.xlsm
 ├── README.md
 │
-└── images/
+└── Images/
     ├── Executive-dashboard.png
     ├── Customers-operations-dashboard.png
     └── insights-report.png
 ```
 
+---
+
 ## 📸 Dashboard Preview
 
 ### Executive Dashboard
+
 ![Executive Dashboard](Images/Executive-dashboard.png)
 
 ### Customer & Operations Dashboard
+
 ![Customer & Operations Dashboard](Images/Customers-operations-dashboard.png)
 
 ### Executive Insights Report
+
 ![Executive Insights Report](Images/insights-report.png)
+
+---
+
+## 📥 Project File
+
+Download the complete Excel dashboard:
+
+[Download Superstore.xlsm](Superstore.xlsm)
