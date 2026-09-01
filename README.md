@@ -93,7 +93,7 @@ Superstore-Performance-Dashboard/
     └── insights-report.png
 ```
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 
 ### Executive Dashboard
 ![Executive Dashboard](Images/Executive-dashboard.png)
