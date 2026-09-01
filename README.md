@@ -93,19 +93,13 @@ Superstore-Performance-Dashboard/
     └── insights-report.png
 ```
 
----
-
-## 📸 Dashboard Preview
+📸 Dashboard Preview
 
 ### Executive Dashboard
-
-![Executive Dashboard](images/Executive-dashboard.png)
+![Executive Dashboard](Images/Executive-dashboard.png)
 
 ### Customer & Operations Dashboard
-
-![Customer & Operations Dashboard](images/Customers-operations-dashboard.png)
+![Customer & Operations Dashboard](Images/Customers-operations-dashboard.png)
 
 ### Executive Insights Report
-
-![Executive Insights Report](images/insights-report.png)
-
+![Executive Insights Report](Images/insights-report.png)
