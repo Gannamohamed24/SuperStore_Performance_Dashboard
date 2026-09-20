@@ -26,7 +26,6 @@ Provides a high-level overview of overall business performance through:
 **Interactive Filters:**
 
 * Region
-* Category
 * Customer Segment
 * Order Date / Timeline
 * Shipping Mode
@@ -53,7 +52,6 @@ Includes:
 **Interactive Filters:**
 
 * Region
-* Category
 * Customer Segment
 * Shipping Mode
 
